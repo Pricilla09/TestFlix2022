@@ -29,3 +29,4 @@ Converting Postman collections to k6 scripts
 
 * https://github.com/apideck-libraries/postman-to-k6#options
 
+* https://www.npmjs.com/package/k6-html-reporter
