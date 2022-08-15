@@ -1,5 +1,5 @@
 # TestFlix2022
-APIs, Collections, k6 Scripts used in TestFlix2022
+APIs, Collections, k6 Scripts used in TestFlix2022 are placed here
 
 
 **k6:**
@@ -30,3 +30,5 @@ Converting Postman collections to k6 scripts
 * https://github.com/apideck-libraries/postman-to-k6#options
 
 * https://www.npmjs.com/package/k6-html-reporter
+
+* https://github.com/benc-uk/k6-reporter
